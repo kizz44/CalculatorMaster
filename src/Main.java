@@ -1,6 +1,3 @@
-//MIT License
-//Copyright (c) 2025 ineedmypills
-
 import java.io.*;
 
 class Calculator {
